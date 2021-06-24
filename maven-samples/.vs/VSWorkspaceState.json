@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\single-module",
+    "\\single-module\\src",
+    "\\single-module\\src\\test",
+    "\\single-module\\src\\test\\java",
+    "\\single-module\\src\\test\\java\\com",
+    "\\single-module\\src\\test\\java\\com\\example"
+  ],
+  "SelectedNode": "\\single-module\\src\\test\\java\\com\\example\\TestGreeter.java",
+  "PreviewInSolutionExplorer": false
+}
